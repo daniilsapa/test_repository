@@ -1,4 +1,4 @@
 
 document.querySelector('#btn').addEventListener('click', () => {
-	alert('Hello world')
+	alert('Hello wonderful world')
 })
